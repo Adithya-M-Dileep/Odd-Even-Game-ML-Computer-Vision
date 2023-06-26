@@ -4,7 +4,7 @@ Enjoy a fun game of Odd or Even using Python and Pygame! Show numbers in front o
 
 ## Demo
 
-[Link to YouTube Gameplay Video]
+[Link to YouTube Gameplay Video](https://youtu.be/f4sPPQQEP8w)
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ Enjoy a fun game of Odd or Even using Python and Pygame! Show numbers in front o
 1. Clone the repository:
 
    ```shell
-   git clone [GitHub Repository Link]
+   git clone https://github.com/Adithya-M-Dileep/Odd-Even-Game-ML-Computer-Vision
    ```
 2. Install the required dependencies:
   ```shell
@@ -38,3 +38,6 @@ Take turns guessing odd or even, competing against the AI opponent.
 After the game, the winner will be announced.
 
 Note: Please ensure that you have a webcam connected to your computer and adjust the webcam number in the `cap = cv2.VideoCapture(0)` section of the main.py file if needed.
+## Gameplay
+
+![Gameplay](GamePlay/ss1.png)
