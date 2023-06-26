@@ -19,16 +19,16 @@ Enjoy a fun game of Odd or Even using Python and Pygame! Show numbers in front o
 
    ```shell
    git clone [GitHub Repository Link]
-  ```
+   ```
 2. Install the required dependencies:
   ```shell
    pip install -r requirements.txt
   ```
 ## Usage
 1. Run the game:
-     ```shell
+   ```shell
    python main.py
-  ```
+   ```
 Follow the on-screen instructions to play the game.
 
 Show numbers in front of the camera, and the game will track and detect them.
